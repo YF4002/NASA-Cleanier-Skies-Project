@@ -1,4 +1,4 @@
-React App for Cleanier Skys project with NASA Space Apps Challenge.
+React App for Cleanier Skys project with NASA Space Apps Challenge (2nd Place Winner).
 
 Air Pollution Map powered by Leaflet.JS, and implements OpenStreetMap to display detailed map imagery.
 
