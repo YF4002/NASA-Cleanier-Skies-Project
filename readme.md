@@ -14,4 +14,4 @@ Subscriber API developed for Air Pollution Alerts Optin Feature.
 
 Subscriber API developed with Spring Boot and Deployed with Github Repo with Dockerfile to Google Cloud Cloud Run Service connected to Cloud PostgreSQL DB.
 
-If you would like to checkout the website here is the link:
+If you would like to checkout the website here is the link: https://www.clearskiesindy.earth/
