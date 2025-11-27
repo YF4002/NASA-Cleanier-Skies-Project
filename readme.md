@@ -15,6 +15,8 @@ Subscriber API developed for Air Pollution Alerts Optin Feature.
 Subscriber API developed with Spring Boot and Deployed with Github Repo with Dockerfile to Google Cloud Cloud Run Service connected to Cloud PostgreSQL DB.
 
 If you would like to checkout the website here is the link: https://www.clearskiesindy.earth/
+Official Space Apps Page: https://www.spaceappschallenge.org/2025/find-a-team/clearer-skies/?tab=details
+Demonstration: https://ballstate-my.sharepoint.com/:p:/g/personal/natalia_bratek_bsu_edu/EWL_kQS-H8ZPrzVJ8HOKVLMBOvEjvgOvKy-oooXbv7PISg?e=n3rqNZ 
 
 <img width="1920" height="956" alt="Image" src="https://github.com/user-attachments/assets/77368e5f-6970-4cd5-a9cd-c662f42cddc1" />
 
